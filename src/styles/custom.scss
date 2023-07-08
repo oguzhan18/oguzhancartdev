@@ -1,0 +1,5 @@
+.container {
+  @include mobile-device() {
+    width: calc(100% - 2rem);
+  }
+}

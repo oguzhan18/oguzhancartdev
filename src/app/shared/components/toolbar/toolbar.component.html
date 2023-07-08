@@ -1,0 +1,19 @@
+<mat-toolbar id="toolbar" class="fixed-top hide">
+  <div class="container">
+    <div class="toolbar-title-area">
+      <a href="/" class="toolbar-title">Oğuzhan ÇART</a>
+    </div>
+    <div class="dark-mode-toggle-area">
+      <button
+        mat-icon-button
+        matTooltip="Toggle Dark Mode"
+        aria-label="Button to toggle dark mode"
+        (click)="toggleTheme()"
+      >
+        <mat-icon>{{
+          (theme | async) === "dark-theme" ? "wb_sunny" : "brightness_2"
+        }}</mat-icon>
+      </button>
+    </div>
+  </div>
+</mat-toolbar>

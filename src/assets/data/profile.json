@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Location",
+    "bulletPoints": [{ "text": "Istanbul, Turkey" }],
+    "icon": "place"
+  },
+  {
+    "title": "Technical Interest",
+    "bulletPoints": [
+      { "text": "Web" },
+      { "text": "Frontend" },
+      { "text": "Backend" },
+      { "text": "Mobile" },
+      { "text": "Desktop App." },
+      { "text": "UI/UX" },
+      { "text": "Cloud" }
+    ],
+    "icon": "psychology"
+  },
+  {
+    "title": "Programming Languages",
+    "bulletPoints": [
+      { "text": "TypeScript",  "image": "assets/icons/typescript.svg"},
+      { "text": "JavaScript",  "image": "assets/icons/javascript.svg" },
+      { "text": "Java",  "image": "assets/icons/java.svg" },
+      { "text": "Dart",  "image": "assets/icons/dart.svg" },
+      { "text": "C#",  "image": "assets/icons/c-sharp.svg" },
+      { "text": "HTML",  "image": "assets/icons/html.svg" },
+      { "text": "CSS",  "image": "assets/icons/css.svg" }
+    ],
+    "icon": "keyboard"
+  },
+  {
+    "title": "Expertise in",
+    "bulletPoints": [
+      { "text": "Angular", "image": "assets/icons/angular.svg" },
+      {"text": "Flutter", "image": "assets/icons/flutter.svg"},
+      { "text": "Nestjs", "image": "assets/icons/nestjs.svg" },
+      { "text": "RxJS", "image": "assets/icons/rxjs.svg" },
+      { "text": "Bootstrap", "image": "assets/icons/bootstrap.svg" },
+      { "text": "Material Design", "image": "assets/icons/material-design.svg"},
+      { "text": "Tailwind CSS", "image": "assets/icons/tailwindcss.svg"},
+      { "text": "Webpack", "image": "assets/icons/webpack.svg" },
+      { "text": "Git", "image": "assets/icons/git.svg" },
+      { "text": "Nodejs", "image": "assets/icons/nodejs.svg" }
+    ],
+    "icon": "lightbulb"
+  }
+]

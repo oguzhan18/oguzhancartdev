@@ -1,0 +1,21 @@
+<div class="app" [ngClass]="(theme | async) ?? ''">
+    <app-toolbar></app-toolbar>
+    <app-scroll-down-indicator></app-scroll-down-indicator>
+    <app-section [colorTheme]="'primary'">
+      <a href="https://www.instagram.com/oguzhan_cart/">
+        <img id="profile-image" src="assets/profile-image.jpg" alt="Profile Image"/>
+      </a>
+        <div class="title">Oğuzhan ÇART</div>
+        <div class="subtitle">Full-Stack Developer</div>
+        <app-social-links></app-social-links>
+    </app-section>
+    <app-section [colorTheme]="'tertiary'">
+        <h1 class="sticky-header">Profile</h1>
+        <app-profile-list></app-profile-list>
+    </app-section>
+    <app-section [colorTheme]="'secondary'">
+        <h1 class="sticky-header">Projects</h1>
+        <app-project-list></app-project-list>
+    </app-section>
+    <app-footer></app-footer>
+</div>
