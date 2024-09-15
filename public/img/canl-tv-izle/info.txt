@@ -1,0 +1,8 @@
+Application where you can watch live Turkish television channels.
+
+Ease of Use.
+Flutter
+Video Player
+
+
+https://github.com/oguzhan18/canl-tv-izle

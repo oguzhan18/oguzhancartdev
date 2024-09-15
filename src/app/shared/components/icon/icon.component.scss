@@ -1,9 +1,0 @@
-@use '@angular/material' as mat;
-@mixin icon-theme($theme) {
-  $background: map-get($theme, background);
-  $foreground: map-get($theme, foreground);
-
-  .app-icon {
-    color: mat.get-color-from-palette($foreground, icon);
-  }
-}

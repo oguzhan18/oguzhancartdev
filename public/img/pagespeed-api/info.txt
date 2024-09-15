@@ -1,0 +1,10 @@
+The PageSpeed API is a NestJS-based service that periodically checks the performance, accessibility, best practices, and SEO of a given URL using Google's PageSpeed Insights API. The results are compiled into a detailed PDF report with charts and audit details.
+
+
+Periodically fetches PageSpeed data for a specified URL.
+Generates a comprehensive PDF report with performance metrics and audit details.
+Allows setting the URL and interval for checks via API endpoints.
+Visualizes data using Chart.js.
+
+
+https://github.com/oguzhan18/pagespeed-api

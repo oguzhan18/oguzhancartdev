@@ -1,0 +1,7 @@
+When building the basic skeleton of your Angular projects, spend your time writing code using SPEED PROJECT so that you can prepare your components faster and more precisely.
+
+Topics
+
+
+https://github.com/oguzhan18/speed-project
+

@@ -1,0 +1,7 @@
+VARLIK KONTROL SİSTEMİ - Fast and easy to use money management app that keeps track of you.
+
+Ease of Use.
+Flutter
+Firebase
+
+https://github.com/oguzhan18/vks-app

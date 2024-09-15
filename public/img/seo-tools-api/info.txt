@@ -1,0 +1,16 @@
+seo-tools-api is a comprehensive collection of SEO tools designed to help webmasters, developers, and SEO professionals optimize websites for better search engine performance. Built using NestJS, this API provides various modules for analyzing and improving different aspects of a website's SEO.
+
+Backlink Checker: Analyze the backlinks pointing to a given website.
+Rank Checker: Check the search engine ranking of a website for specified keywords.
+SEO Audit: Perform a comprehensive SEO audit of a website.
+Sitemap Generator: Generate an XML sitemap for a given website.
+Competitor Analysis: Compare the SEO performance of competitor websites.
+Page Speed Analyzer: Analyze the loading speed of a webpage and provide improvement suggestions.
+Content Optimization: Optimize the content of a webpage for better SEO.
+Internal Linking: Analyze the internal link structure of a website.
+Social Media Integration: Check the social media integration of a website.
+
+
+https://github.com/oguzhan18/seo-tools-api
+
+nestjs

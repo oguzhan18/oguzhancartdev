@@ -1,0 +1,12 @@
+The WHOIS Lookup App is a simple Flutter application that allows users to perform WHOIS lookups for any domain. It provides detailed information about domain registrations, such as the registrar, registration date, and contact information. Users can also save their search results for future reference.
+
+Features
+Quick and easy WHOIS lookups
+Save your search results
+View previously saved domains
+Simple and intuitive interface
+
+Flutter 
+Dart
+
+https://github.com/oguzhan18/whois_app
